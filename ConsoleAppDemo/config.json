@@ -1,0 +1,9 @@
+{
+  "Book": {
+    "Name": "这是一本书",
+    "Age": 35,
+    "Author": "罗贯中",
+    "Description": "这是一个描述！"
+  },
+  "Redis":  "测试"
+}
